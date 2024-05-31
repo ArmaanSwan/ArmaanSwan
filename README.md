@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @armaanswan
+- 👀 I’m interested in coding, gaming, science, and technology.
+- 🌱 I’m currently learning the basics of Git and GitHub, and would most likely move on to learning C++ and Python.
+- 💞️ I’m looking to collaborate on fun open-source projects.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: My nickname is Tortoise.
